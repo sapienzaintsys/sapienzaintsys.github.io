@@ -1,0 +1,15 @@
+- name: Claudio Di Ciccio
+  photo: claudio.jpg
+  info: Associate Professor
+  email: diciccio@di.uniroma1.it
+  website: https://www.diciccio.net/
+  scholar: https://scholar.google.at/citations?user=OBwQoWsAAAAJ
+
+- name: Giuseppe Perelli
+  photo: giuseppep.jpg
+  info: Assistant Professor
+  email: giuseppe.perelli@uniroma1.it
+  website: https://giuseppeperelli.github.io/
+  linkedin: https://www.linkedin.com/in/giuseppeperelli/
+  github:
+  scholar: https://scholar.google.com/citations?hl=en&user=QinfNSwAAAAJ
