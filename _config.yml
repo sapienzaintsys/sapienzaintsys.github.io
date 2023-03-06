@@ -2,8 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-repository: sapienzaintsys/sapienzaintsys.github.io
-
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Intelligent Systems #
 middle_name: #
