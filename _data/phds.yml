@@ -1,5 +1,14 @@
+- name: Luca Barbaro
+  photo: missing.jpg
+  info: PhD Student
+  email: 
+  website: 
+  linkedin:
+  github: 
+  scholar:
+  
 - name: Davide Basile
-  photo: 
+  photo: missing.jpg
   info: PhD Student
   email: 
   website: 
@@ -8,7 +17,7 @@
   scholar:
   
 - name: Valerio Goretti
-  photo: 
+  photo: missing.jpg
   info: PhD Student
   email: 
   website: 
@@ -17,7 +26,7 @@
   scholar:
 
 - name: Edoardo Marangone
-  photo: 
+  photo: missing.jpg
   info: PhD Student
   email: 
   website:

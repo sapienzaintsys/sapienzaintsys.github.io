@@ -55,7 +55,7 @@ nav: true
 </div>
 {% endif %}
 
-# Postdocs
+<!--# Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
@@ -106,7 +106,7 @@ nav: true
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %}-->
 
 # PhD Students
 
@@ -162,7 +162,7 @@ nav: true
 </div>
 {% endif %}
 
-# Administration
+<!--# Administration
 {% assign number_printed = 0 %}
 {% for member in site.data.admin_members %}
 
@@ -213,5 +213,5 @@ nav: true
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %}-->
 
